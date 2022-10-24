@@ -1,0 +1,6 @@
+Kal says this training is amazing
+:wq
+
+:x
+
+
